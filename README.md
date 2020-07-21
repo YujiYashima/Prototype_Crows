@@ -47,5 +47,5 @@ Or download the folder and open this project in FireWorks
 
 <h2 id="Licence">:page_facing_up: Licence</h2>
 
-- <a src="https://github.com/YujiYashima/Prototype_Crows/blob/master/LICENSE">Licence</a>
+- <a href="Prototype_Crows/blob/master/LICENSE">Licence</a>
 
