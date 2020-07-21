@@ -12,7 +12,7 @@
   <a href="#Built with">Built with</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#how-to-run">How to run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Screen">ScreenShots</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#licence">Licence</a>&nbsp;&nbsp;&nbsp;
+  <a href="#Other">Others</a>&nbsp;&nbsp;&nbsp;
 </p>
 <br><br>
 
@@ -45,7 +45,9 @@ Or download the folder and open this project in FireWorks
   <img src="Prints/Contato.PNG">
 </h3>
 
-<h2 id="Licence">:page_facing_up: Licence</h2>
+<h2 id="Other">:paperclip: Others</h2>
 
 - <a href="https://github.com/YujiYashima/Prototype_Crows/blob/master/LICENSE">Licence</a>
+- <a href="https://etecfernandopolis.com.br/site/inicio/">Site Etec Fernandópolis</a>
+- <a href="https://yujiyashima.github.io/Prototype_Crows/Site_html/Home.htm">Protótipo</a>
 
