@@ -10,6 +10,7 @@
 
 <p align="center">
   <a href="#Built with">Built with</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#obj">Objective</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#how-to-run">How to run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Screen">ScreenShots</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Other">Others</a>&nbsp;&nbsp;&nbsp;
@@ -18,15 +19,25 @@
 
 <h2 id="Built with">:pencil2: Built with</h2>
 
-This project was built with prototype technologie and some strategies:
+This project was built with prototype technologies:
 
 - Adobe FireWorks
 - Photoshop
 - Corel Draw
-- Image gallery
+
+<h2 id="obj">:bar_chart: Objective</h2>
+
+A prototype made in the CPA class with the support of Etec teachers:
+
+- Fellipe
+- Carolina
+
+Various concepts and strategies were applied and taught as:
+
 - Buttons
-- Pop up
-- Menu Rollover
+- Image Gallery
+- Nav Bar
+- Linking Pages
 
 <h2 id="how-to-run">:computer: How to run</h2>
 
