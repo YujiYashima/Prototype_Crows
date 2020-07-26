@@ -45,7 +45,8 @@ Various concepts and strategies were applied and taught as:
 # to clone the repository
 git clone https://github.com/YujiYashima/Prototype_Crows.git
 ```
-Or download the folder and open this project in FireWorks
+- Or download the folder and open this project in FireWorks
+- Or Click in <a href="https://yujiyashima.github.io/Prototype_Crows/Site_html/Home.htm">https://yujiyashima.github.io/Prototype_Crows/Site_html/Home.htm</a>
 
 <h2 id="Screen">:camera: ScreenShots</h2>
 
